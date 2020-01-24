@@ -13,10 +13,10 @@ From command line, run the script:
 to be greeted with a command center. Use help function for explanations for each command.
 
 Basic usage would be: 
-`new` - start a new party  
-`promote 1` - promote first party member  
-`promote all` - promote all together  
-`reroll 3` - reroll a character's promotion  
+- `new` - start a new party  
+- `promote 1` - promote first party member  
+- `promote all` - promote all together  
+- `reroll 3` - reroll a character's promotion  
 
 ## Configs
 The local file `config.yaml` can be edited in a text editor. The following configurations exist:
