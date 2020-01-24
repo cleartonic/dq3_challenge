@@ -12,7 +12,8 @@ From command line, run the script:
 `python script.py`  
 to be greeted with a command center. Use help function for explanations for each command.
 
-Basic usage would be: 
+Basic usage would be:  
+
 - `new` - start a new party  
 - `promote 1` - promote first party member  
 - `promote all` - promote all together  
