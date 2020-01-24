@@ -1,0 +1,26 @@
+autosave: true
+hero_enabled: false
+hero_gender: m
+minimum_starting_magical: 1          
+maximum_starting_jesters: 1
+promote_sage_limit: 1
+promote_enable_jesters: false
+force_jesters_to_sage: true
+
+# dictionary of accepted arguments & explanation
+# autosave: true, false
+#       allows autosaving after every input. use save/load commands to interact with current_chars.save
+# hero_enabled: true, false
+#       forces character in slot 1 to be hero. false setting requires savefile with hero in ruida's tavern
+# hero_gender: m, f
+# minimum_starting_magical: # 0,1,2,3,4
+#       minimum number of starting characters that will have magic (either cleric or wizard)
+# maximum_starting_jesters: # 0,1,2,3,4
+#       maximum number of starting characters that will be jesters
+# promote_sage_limit: # 0,1,2,3,4
+#       number of sages allowed in the party. does not necessarily mean how many sages will be in the party, just the limits
+# promote_enable_jesters: true, false
+#       toggle for allowing jesters as promoted classes
+# force_jesters_to_sage: true, false
+#       toggle guarantee jesters to promote to sage 
+    
